@@ -1,6 +1,6 @@
 # SQL-injection-attack-querying-the-database-type-and-version-on-Oracle
 
-> # !(1) To be sure that it has an sql vulnerability: url' -> internal server error. That means it has a vulnerability
+> # (1) To be sure that it has an sql vulnerability: url' -> internal server error. That means it has a vulnerability
 ![image](https://user-images.githubusercontent.com/59218362/208419556-a6f17621-237e-48f5-b8b2-6ed3921c833a.png)
 
 > # (2) To know the number of column: 'ORDER BY 3-- -> internal server error. It means there are 2 columns
