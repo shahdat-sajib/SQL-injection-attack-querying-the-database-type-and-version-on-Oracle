@@ -6,9 +6,23 @@
 
 
 
+
+
+
+
+
+
+
 > # (2) To know the number of column: 'ORDER BY 3-- -> internal server error. It means there are 2 columns
 ![image](https://user-images.githubusercontent.com/59218362/208419394-038bbc5a-d0b3-43b3-a354-62f0b5d009fb.png)
 ![image](https://user-images.githubusercontent.com/59218362/208419254-4f09eb82-d337-4da7-b75c-7421953397dd.png)
+
+
+
+
+
+
+
 
 
 
@@ -19,8 +33,22 @@
 
 
 
+
+
+
+
+
+
+
 > # (4) To know data retrieve in oracle database: 'UNION SELECT 'sajib','rajib' FROM DUAL--. See we find out 2 both 2 column are retrieving data
 ![image](https://user-images.githubusercontent.com/59218362/208418870-00c353a4-c3b8-457c-bea7-3cc0eb951824.png)
+
+
+
+
+
+
+
 
 
 
